@@ -1,0 +1,8 @@
+Brīvkoda licences- ir programmatūra, kuru kopā ar tās pirmkodu bez maksas izplata lietotājiem. Lietotāji to var lietot, modificēt un izplatīt tālāk, ja tie garantē, ka norādes uz sākotnējā izstrādājuma autora vārdu un autortiesībām netiek dzēstas vai mainītas un, ka programmatūrā veiktās izmaiņas ir skaidri norādītas. Ierobežojumi nevar iekļaut brīvu izmantošanu, modificēšanu un izplatīšanu.
+Salīdzinājums- GPL un MIT licences
+Modificēšana- Atvasinātajā kodā jābūt GPL licences pirmkodam  ;  Atvasinātais (modificētais) kods var nesaturēt MIT programmatūras pamata bāzi.
+Pirmkoda izplatīšana- GPL jānodrošina avots, jānorāda licence, jāsniedz tiesības modificēt un izplatīt tālāk. ; MIT Jāsaglabā tikai autortiesību paziņojums.
+Informācijas daudzums: GPL gara, detalizētāka ; MIT vienkārša, pāris rindiņās.
+Patenta aizsardzība: GPL Nodrošina patentu licenci visiem lietotājiem; MIT nav patentu aizsardzības. 
+Veikto izmaiņu pieejamība: GPL ja izplata modificētu, avotam ir jābūt pieejamam ; MIT nav prasību dalīties ar labojumiem. 
+Komerciāla izmantošana:  GPL atļauta, bet izmaiņas jāpadara pieejamas; MIT Pilnīgi atļauta bez avota publicēšanas.
