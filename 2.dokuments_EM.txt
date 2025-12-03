@@ -1,4 +1,5 @@
-Brīvkoda licences- ir programmatūra, kuru kopā ar tās pirmkodu bez maksas izplata lietotājiem. Lietotāji to var lietot, modificēt un izplatīt tālāk, ja tie garantē, ka norādes uz sākotnējā izstrādājuma autora vārdu un autortiesībām netiek dzēstas vai mainītas un, ka programmatūrā veiktās izmaiņas ir skaidri norādītas. Ierobežojumi nevar iekļaut brīvu izmantošanu, modificēšanu un izplatīšanu.
+Brīvkoda licences- ir programmatūra, kuru kopā ar tās pirmkodu bez maksas izplata lietotājiem. Lietotāji to var lietot, modificēt un izplatīt tālāk, ja tie garantē, ka norādes uz sākotnējā izstrādājuma autora vārdu un autortiesībām netiek dzēstas vai mainītas un, ka programmatūrā veiktās izmaiņas ir skaidri norādītas. Ierobežojumi nevar iekļaut brīvu izmantošanu, modificēšanu un izplatīšanu. Piemēri: GNU GPLL, MIT,  Mozilla Public licence.
+
 Salīdzinājums- GPL un MIT licences
 Modificēšana- Atvasinātajā kodā jābūt GPL licences pirmkodam  ;  Atvasinātais (modificētais) kods var nesaturēt MIT programmatūras pamata bāzi.
 Pirmkoda izplatīšana- GPL jānodrošina avots, jānorāda licence, jāsniedz tiesības modificēt un izplatīt tālāk. ; MIT Jāsaglabā tikai autortiesību paziņojums.
